@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/Profile.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Profile pic";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Titanic Classification Model",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Titanic Classification project uses machine learning's Logistic regression algorithm to predict a person's likelihood of survival in the event of a sinking. Factors like socio-economic status, age, and gender are analyzed to determine their impact on survival chances. This project sheds light on historical patterns and biases in evacuation procedures.",
+    url: "https://github.com/AdityaSrivastavDS/Bharat_Intern/blob/main/Titanic%20Classification.ipynb",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Library Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Manual Library Management System, built with Python, offers a traditional yet efficient approach to library operations. This system provides librarians with the tools they need to effectively manage their collections and assist patrons in a hands-on manner.",
+    url: "https://github.com/AdityaSrivastavDS/PYTHON-PROJECTS/blob/main/Library%20Management%20System.py.",
   },
   {
-    title: "My Resume Site",
+    title: "Carbon Emission Calculator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "he Carbon Emission Calculator is a user-friendly web application built using HTML and CSS. It enables individuals and businesses to estimate their carbon footprint based on inputted data such as energy consumption, transportation habits, and lifestyle choices. The calculator provides valuable insights into environmental impact, helping users make informed decisions towards reducing their carbon emissions and promoting sustainability.",
+    url: "https://github.com/AdityaSrivastavDS/HTML-PROJECTS/blob/main/Carbon%20Emission.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Face Recogonizer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Python-based Face Recognizer program employs advanced computer vision techniques to accurately identify and authenticate individuals based on their facial features. ",
+    url: "https://github.com/AdityaSrivastavDS/PYTHON-PROJECTS/blob/main/Face%20Recognizer.py",
   },
 ];
 
